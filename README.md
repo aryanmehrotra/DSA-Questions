@@ -8,3 +8,4 @@
 #### Q7 : [189. Rotate Array](https://github.com/mehrotra234/DSA-Questions/blob/main/189.%20Rotate%20Array) [LEETCODE](https://leetcode.com/problems/rotate-array/)
 #### Q8 : [53. Maximum Subarray](https://github.com/mehrotra234/DSA-Questions/blob/main/53.%20Maximum%20Subarray.cpp) [LEETCODE](https://leetcode.com/problems/maximum-subarray/)
 #### Q9 : [Minimize the Heights II](https://github.com/mehrotra234/DSA-Questions/blob/main/Minimize%20the%20Heights%20II%20.cpp) [GFG](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1)
+#### Q10 : [45. Jump Game II](https://github.com/mehrotra234/DSA-Questions/blob/main/45.%20Jump%20Game%20II.cpp) [LEETCODE](https://leetcode.com/problems/jump-game-ii/)

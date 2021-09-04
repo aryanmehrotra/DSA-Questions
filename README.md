@@ -11,3 +11,5 @@
 #### Q10 : [45. Jump Game II](https://github.com/mehrotra234/DSA-Questions/blob/main/45.%20Jump%20Game%20II.cpp) [LEETCODE](https://leetcode.com/problems/jump-game-ii/)
 #### Q11 : [45. Jump Game II](https://github.com/mehrotra234/DSA-Questions/blob/main/287.%20Find%20the%20Duplicate%20Number.cpp) [LEETCODE](https://leetcode.com/problems/find-the-duplicate-number/)
 #### Q12 : [45. Jump Game II](https://github.com/mehrotra234/DSA-Questions/blob/main/88.%20Merge%20Sorted%20Array.cpp) [LEETCODE](https://leetcode.com/problems/merge-sorted-array/)
+Q13 : Q8
+#### Q14 : [56. Merge Intervals](https://github.com/mehrotra234/DSA-Questions/blob/main/56.%20Merge%20Intervals.cpp) [LEETCODE](https://leetcode.com/problems/merge-intervals/)

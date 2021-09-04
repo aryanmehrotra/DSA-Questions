@@ -17,4 +17,4 @@ Q13 : Q8
 #### Q16 : [Inversion Count](https://github.com/mehrotra234/DSA-Questions/blob/main/Count%20Inversions.cpp) [GFG](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#)
 #### Q17 : [121. Best Time to Buy and Sell Stock](https://github.com/mehrotra234/DSA-Questions/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp) [LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 #### Q18 : [Count pairs with given sum ](https://github.com/mehrotra234/DSA-Questions/blob/main/Count%20pairs%20with%20given%20sum%20.cpp) [GFG](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1#)
-#### Q19 : [Count pairs with given sum ](https://github.com/mehrotra234/DSA-Questions/blob/main/Common%20elements%20.cpp) [GFG](https://practice.geeksforgeeks.org/problems/common-elements1132/1)
+#### Q19 : [Common elements ](https://github.com/mehrotra234/DSA-Questions/blob/main/Common%20elements%20.cpp) [GFG](https://practice.geeksforgeeks.org/problems/common-elements1132/1)

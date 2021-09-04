@@ -13,3 +13,4 @@
 #### Q12 : [45. Jump Game II](https://github.com/mehrotra234/DSA-Questions/blob/main/88.%20Merge%20Sorted%20Array.cpp) [LEETCODE](https://leetcode.com/problems/merge-sorted-array/)
 Q13 : Q8
 #### Q14 : [56. Merge Intervals](https://github.com/mehrotra234/DSA-Questions/blob/main/56.%20Merge%20Intervals.cpp) [LEETCODE](https://leetcode.com/problems/merge-intervals/)
+#### Q15 : [31. Next Permutation](https://github.com/mehrotra234/DSA-Questions/blob/main/31.%20Next%20Permutation.cpp) [LEETCODE](https://leetcode.com/problems/next-permutation/)

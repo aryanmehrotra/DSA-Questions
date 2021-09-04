@@ -15,4 +15,4 @@ Q13 : Q8
 #### Q14 : [56. Merge Intervals](https://github.com/mehrotra234/DSA-Questions/blob/main/56.%20Merge%20Intervals.cpp) [LEETCODE](https://leetcode.com/problems/merge-intervals/)
 #### Q15 : [31. Next Permutation](https://github.com/mehrotra234/DSA-Questions/blob/main/31.%20Next%20Permutation.cpp) [LEETCODE](https://leetcode.com/problems/next-permutation/)
 #### Q16 : [Inversion Count](https://github.com/mehrotra234/DSA-Questions/blob/main/Count%20Inversions.cpp) [GFG](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#)
-#### Q15 : [121. Best Time to Buy and Sell Stock](https://github.com/mehrotra234/DSA-Questions/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp) [LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+#### Q17 : [121. Best Time to Buy and Sell Stock](https://github.com/mehrotra234/DSA-Questions/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp) [LEETCODE](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)

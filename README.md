@@ -19,4 +19,4 @@ Q13 : Q8
 #### Q18 : [Count pairs with given sum ](https://github.com/mehrotra234/DSA-Questions/blob/main/Count%20pairs%20with%20given%20sum%20.cpp) [GFG](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1#)
 #### Q19 : [Common elements ](https://github.com/mehrotra234/DSA-Questions/blob/main/Common%20elements%20.cpp) [GFG](https://practice.geeksforgeeks.org/problems/common-elements1132/1)
 #### Q20 :To Be Done [Rearrange array in alternating positive & negative items with O(1) extra space]() [GFG](https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/)
-#### Q21 :[Subarray with 0 sum](https://github.com/mehrotra234/DSA-Questions/blob/main/21.%20Subarray%20with%200%20sum.cpp) [GFG](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1)
+#### Q21 :[Subarray with 0 sum](https://github.com/mehrotra234/DSA-Questions/blob/main/Subarray%20with%200%20sum.cpp) [GFG](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1)
